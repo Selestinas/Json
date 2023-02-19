@@ -1,1 +1,8 @@
-
+{  
+    "ID": 400,
+    "Summary": "Http 500 appears after clicking back button in any Topic.",
+    "Location": "capital.com",
+    "Severuty": "Medium",
+    "Reproducible": "Always",
+    "Envirioment" : "Chrome ver 10",
+ }
