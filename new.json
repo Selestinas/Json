@@ -1,0 +1,8 @@
+{       
+	"person_name": "Kristina",
+	"person_age": 33,
+	"person_pet":
+
+			{"cat": "Bonya"},
+	"person_salary": "2.000 usd"
+}
